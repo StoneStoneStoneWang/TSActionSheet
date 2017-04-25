@@ -14,7 +14,6 @@
 		9B7797011EAF7DD2007F7EC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B7796FF1EAF7DD2007F7EC0 /* LaunchScreen.storyboard */; };
 		9B77970C1EAF7DD2007F7EC0 /* TSActionSheetDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B77970B1EAF7DD2007F7EC0 /* TSActionSheetDemoTests.swift */; };
 		9B7797171EAF7DD2007F7EC0 /* TSActionSheetDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7797161EAF7DD2007F7EC0 /* TSActionSheetDemoUITests.swift */; };
-		9B7797311EAF8A05007F7EC0 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 9B77972F1EAF8A05007F7EC0 /* README.md */; };
 		9B7797321EAF8A05007F7EC0 /* TSActionSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7797301EAF8A05007F7EC0 /* TSActionSheet.swift */; };
 /* End PBXBuildFile section */
 
@@ -49,7 +48,6 @@
 		9B7797121EAF7DD2007F7EC0 /* TSActionSheetDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TSActionSheetDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B7797161EAF7DD2007F7EC0 /* TSActionSheetDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TSActionSheetDemoUITests.swift; sourceTree = "<group>"; };
 		9B7797181EAF7DD2007F7EC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9B77972F1EAF8A05007F7EC0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9B7797301EAF8A05007F7EC0 /* TSActionSheet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TSActionSheet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -133,7 +131,6 @@
 		9B77972E1EAF8A05007F7EC0 /* ActionSheet */ = {
 			isa = PBXGroup;
 			children = (
-				9B77972F1EAF8A05007F7EC0 /* README.md */,
 				9B7797301EAF8A05007F7EC0 /* TSActionSheet.swift */,
 			);
 			name = ActionSheet;
@@ -275,7 +272,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B7797321EAF8A05007F7EC0 /* TSActionSheet.swift in Sources */,
-				9B7797311EAF8A05007F7EC0 /* README.md in Sources */,
 				9B7796F91EAF7DD2007F7EC0 /* ViewController.swift in Sources */,
 				9B7796F71EAF7DD2007F7EC0 /* AppDelegate.swift in Sources */,
 			);
